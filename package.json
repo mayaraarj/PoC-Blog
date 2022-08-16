@@ -1,0 +1,15 @@
+{
+  "name": "poc-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "servidor": "json-server --watch db.json"
+  },
+  "author": "Mayara Renata Yasmim Gabi",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
